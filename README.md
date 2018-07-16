@@ -11,6 +11,6 @@ To view results of this scatterplot, download repository and execute a local htt
 
 
 
-![Screenshot]("https://github.com/hfaivre/d3InternetUsageVsUrbanPopulation/d3InternetUsageVsUrbanPopulation/screenshot.png")
+![Screenshot]("https://github.com/hfaivre/d3InternetUsageVsUrbanPopulation/blob/master/screenshot.png")
 
 
