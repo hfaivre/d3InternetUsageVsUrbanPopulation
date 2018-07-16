@@ -12,6 +12,15 @@ To view results of this scatterplot, download repository and execute a local htt
 
 <img width="872" alt="screenshot" src="https://user-images.githubusercontent.com/1713291/42768175-19f30e2a-891f-11e8-828e-63ade573acc0.png">
 
-![Screenshot]("https://github.com/hfaivre/d3InternetUsageVsUrbanPopulation/blob/master/screenshot.png?raw=true")
+# Data
+This plot has been made with the following 4 dataset over a large number of countries from 1996 to 2016 :
+* Internet Usage, represented on x axis
+* Urban Population, represented on y axis
+* Mobile Subscription, represented by circle size
+* Broadband Subscription, represented on color scale
+
+
+
+
 
 
