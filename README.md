@@ -10,3 +10,7 @@ As an objective of learning how to use D3, I have chosen to use worldbank datase
 To view results of this scatterplot, download repository and execute a local http server from the given rep directory. Then navigate to the index.html page served by your localhost.
 
 
+
+![Screenshot]("https://github.com/hfaivre/d3InternetUsageVsUrbanPopulation/d3InternetUsageVsUrbanPopulation/screenshot.png")
+
+
